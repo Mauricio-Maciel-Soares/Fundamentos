@@ -1,0 +1,35 @@
+h1 {
+    font-family: sans-serif;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: oblique;
+  }
+
+  .free-style {
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 2;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5em;
+    color: blue;
+  }
+
+  #line-yellow {
+    background-color: yellow;
+  }
+
+  #line-red {
+    background-color: red;
+  }
+
+  #line-brown {
+    background-color: brown;
+  }
